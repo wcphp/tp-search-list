@@ -1,10 +1,10 @@
 {
-    "name": "wcphp/tp5-search-list",
-    "description": "tp5.1.*模型搜索分页列表Trait",
+    "name": "wcphp/tp-search-list",
+    "description": "thinkphp 模型搜索分页列表Trait",
     "type": "library",
     "authors": [
         {
-            "name": "kk",
+            "name": "cc",
             "email": "weika@wcphp.com"
         }
     ],

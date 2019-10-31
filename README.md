@@ -1,2 +1,2 @@
-# tp5-search-list
-tp5.1.*模型搜索分页列表 trait
+# tp-search-list
+thinkphp 模型搜索分页列表 trait
